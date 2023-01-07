@@ -1,0 +1,11 @@
+cv2
+numpy
+time
+autopy
+pyautogui
+Screen-Brightness-Control
+pycaw
+comtypes
+ctypes
+math
+mediapipe
